@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Teixeira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
+<p> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandroteixeira" alt="leandroteixeira" /></a> </p>
 
 - 🔭 I’m currently developing [NASA Api Project](https://github.com/LeandroTeixeira/NASA-api-project)
