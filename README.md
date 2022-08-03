@@ -8,13 +8,13 @@
 
 - 👯 The most challenging project I made - [Liracs](https://github.com/LeandroTeixeira/Liracs)
 
-- ✨ My favorite project - [Crwn Clothing](https://github.com/LeandroTeixeira/crwn-clothing)
+- ✨ My favorite project - [Stock Price Predictor](https://github.com/LeandroTeixeira/case-xp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeandroTeixeira](https://github.com/LeandroTeixeira)
 
-- 💬 Ask me about **Python, Java and React**
+- 💬 Ask me about **Python and Machine Learning**
 
-- 🌱 I’m currently learning **Mongo DB and TypeScript**
+- 🌱 I’m currently learning **Better programing practices**
 
 - 📫 How to reach me **leandroteixeira3@gmail.com**
 
