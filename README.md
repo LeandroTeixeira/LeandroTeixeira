@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python and Machine Learning**
 
-- 🌱 I’m currently studying **Clean Code**
+- 🌱 I’m currently reading **Pragmatic Programmer**
 
 - ⚡ Fun fact **My first attempt at a big project was a game of truco implemented in Java in 2014. It would have an AI that learned and adapt to each players' playstyle (including how often they bluffed). Due to the complexity involved, though, the project never took off.**
 
