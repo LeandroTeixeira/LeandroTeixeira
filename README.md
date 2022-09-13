@@ -8,7 +8,7 @@
 
 - 👯 The most challenging project I made - [Liracs](https://github.com/LeandroTeixeira/Liracs)
 
-- ✨ My favorite project - [Stock Price Predictor](https://github.com/LeandroTeixeira/case-xp)
+- ✨ My favorite project - [Stock Price Predictor](https://github.com/LeandroTeixeira/stock-market)
 
 - 💬 Ask me about **Python and Machine Learning**
 
